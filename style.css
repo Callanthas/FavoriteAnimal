@@ -1,5 +1,13 @@
 h1 {
     font-size: 40px;
     clear: both;
-    
+    color: green;
+
+}
+
+h2 {
+    font-size: 30px;
+    clear: both;
+    color: blue;
+
 }
